@@ -1,0 +1,16 @@
+
+
+div {
+display: block;
+}
+
+#navbar {
+  display: block;
+}
+
+#Mail {
+  display: inline-block;
+  position: relative;
+  float: right;
+  padding: 2px;
+}
